@@ -15,8 +15,7 @@ This project uses a pre-trained MobileNet SSD (Single Shot Detector) deep learni
 
 ## 🖥️ Demo
 
-![demo](https://user-images.githubusercontent.com/demo-placeholder.gif)  
-> *[Replace this with your own gif or screenshot]*
+https://github.com/user-attachments/assets/3b66b38f-5410-4861-a817-b27704f84152
 
 ---
 
